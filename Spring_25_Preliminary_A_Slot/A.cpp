@@ -1,4 +1,4 @@
-//reverse string
+//reverse string  //Accepted
 #include<iostream>
 #include<algorithm>
 
@@ -11,4 +11,3 @@ int main(){
     return 0;
 }
 
-//Accepted

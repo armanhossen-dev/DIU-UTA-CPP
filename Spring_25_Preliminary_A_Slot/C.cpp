@@ -1,4 +1,4 @@
-#include<iostream>
+#include<iostream> //Accepted
 #include<algorithm>
 #include<vector>
 #include<utility>
@@ -27,4 +27,3 @@ int main(){
     }
     return 0;
 }
-//Accepted

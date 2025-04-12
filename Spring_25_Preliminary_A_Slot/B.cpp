@@ -1,4 +1,4 @@
-#include<iostream>
+#include<iostream> //Accepted
 #include<vector>
 using namespace std;
 
@@ -29,5 +29,3 @@ int main(){
     }
     return 0;
 }
-
-//	Accepted
