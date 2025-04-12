@@ -1,4 +1,4 @@
-//C. Hotashar Mor
+//C. Hotashar Mor  //Accepted
 #include<iostream>
 #include<vector>
 #include<algorithm>

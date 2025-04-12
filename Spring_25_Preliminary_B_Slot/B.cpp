@@ -1,4 +1,4 @@
-//B. Lost in the Library
+//B. Lost in the Library  ///Accepted
 #include<iostream>
 #include<vector>
 #include<algorithm>
